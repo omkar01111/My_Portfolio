@@ -50,7 +50,7 @@ export const Banner = () => {
   }
   const downloadFile = () => {
     // Replace 'path/to/file.ext' with the actual file path and name
-    const fileUrl = 'https://my-portfolio-bn7iz8gk3-omkar01111.vercel.app/?vercelToolbarCode=Y8Ox3G_dC6XzlZh/cv/Omkar.pdf';
+    const fileUrl = 'https://my-portfolio-ten-orcin.vercel.app/cv/Omkar.pdf';
    
 
     fetch(fileUrl)
